@@ -1,5 +1,5 @@
 {
-    "name": "CryptLib/Cmac",
+    "name": "cryptlib/cmac",
     "type": "library",
     "version": "0.0.1-alpha1",
     "description": "A General Purpose CMAC Cryptography Library, forked from https://github.com/ircmaxell/PHP-CryptLib",
